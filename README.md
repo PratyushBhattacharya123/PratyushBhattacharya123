@@ -210,18 +210,6 @@ https://jadescrolls.com
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PratyushBhattacharya123&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushBhattacharya123&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -241,14 +229,6 @@ https://jadescrolls.com
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PratyushBhattacharya123&theme=darkhub&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
 
 ---
 
@@ -299,9 +279,9 @@ https://jadescrolls.com
 
 <p align="center">
 
-<a href="https://pratyushbhattacharya.in">
+<!-- <a href="https://pratyushbhattacharya.in">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/pratyush-bhattacharya-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
