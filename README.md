@@ -2,7 +2,7 @@
 
 Full stack engineer. I build and ship production systems end-to-end — architecture through deployment.
 
-**Currently:** Co-founder & engineer at [Maa Nutrition](https://www.maanutrition.com) — solo-built a live e-commerce platform from zero to launch in ~12 weeks. 100+ customers, ~100 orders/month.
+**Currently:** Co-founder & engineer at [Maa Nutrition](https://www.maanutrition.com) — solo-built a live e-commerce platform from zero to launch in ~12 weeks. 150+ customers, ~200 orders/month.
 
 ### What I've shipped
 
